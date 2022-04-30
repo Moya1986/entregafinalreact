@@ -2,7 +2,7 @@
 
 ### Pasos
 
-- Clonar repositorio: `git clone git@github.com:Moya1986/curso-react.git`
+- Clonar repositorio: `git clone https://github.com/Moya1986/entregafinalreact.git`
 
 - Ejecutar npm para instalar las dependencias: `npm i`
 
