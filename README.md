@@ -16,3 +16,4 @@
 
 - El proyecto permite tener la interface de un Ecommerce, con productos y un carrito de compras. Al seleccionar productos se puede ver un detalle de los mismos y, a la vez, seleccionar la cantidad a comprar. Luego se genera una órden de compra que no queda guardada en ningún lado más allá de aparecer en pantalla.
 
+

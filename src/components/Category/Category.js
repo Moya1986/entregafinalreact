@@ -1,12 +1,11 @@
-import ItemListContainer from "../ItemListContainer/ItemListContainer"
+import ItemListContainer from "../ItemListContainer/ItemListContainer";
 
 const Category = () => {
+  return (
+    <div>
+      <ItemListContainer greeting={"Lista de productos"} />
+    </div>
+  );
+};
 
-    return (
-        <div>
-            <ItemListContainer greeting={'Lista de productos'}/>
-        </div>
-    )
-}
-
-export default Category
+export default Category;
