@@ -23,31 +23,31 @@ https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/home.pn
 
 #### Category/Camisetas
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/seccion_camisetas.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/seccion_camisetas.png
 
 #### ItemDetail con el counter
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/Item.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/Item.png
   
 #### Cart
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/cart_with_products.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/cart_with_products.png
 
 #### Firebase Products
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/products_firebase.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/products_firebase.png
 
 #### Form Error
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/cart_form_error.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/cart_form_error.png
 
 #### Compra exitosa
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/compra.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/compra.png
 
 #### Orden creada en firestore luego de la compra
 
-https:/raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/orders_firebase.png
+https://raw.githubusercontent.com/Moya1986/entregafinalreact/main/public/orders_firebase.png
 
 
 
